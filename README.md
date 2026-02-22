@@ -14,7 +14,7 @@ I am currently leveling up my developer profile with a strong emphasis on:
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EckeEcke&theme=dracula&hide_title=true&layout=compact&langs_count=8" height="170" />
 
-
+  ![](https://komarev.com/ghpvc/?username=EckeEcke&color=green) 
 ---
 
 ### 🛠 Tech Stack
