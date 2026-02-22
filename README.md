@@ -9,16 +9,11 @@ I am currently leveling up my developer profile with a strong emphasis on:
 ---
 
 ### 📊 GitHub Stats
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EckeEcke&theme=dracula&hide_title=true&hide_border=true&show_icons=true" height="170" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EckeEcke&theme=dracula&hide_title=true&hide_border=true&layout=compact&langs_count=8" height="170" />
-    </td>
-  </tr>
-</table>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EckeEcke&theme=dracula&hide_title=true&show_icons=true" height="170" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EckeEcke&theme=dracula&hide_title=true&layout=compact&langs_count=8" height="170" />
+
 
 ---
 
@@ -37,6 +32,7 @@ I am currently leveling up my developer profile with a strong emphasis on:
 ---
 
 ### 📂 Featured Project
+<img src="https://eckeecke.github.io/images/screenshots/Screenshot-Triggerscore.webp" width="400px" alt="Projekt Vorschau" />
 <p align="left">
   <a href="https://github.com/EckeEcke/Triggerscore-nuxt3">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EckeEcke&repo=triggerscore-nuxt3&theme=dracula&hide_border=true" alt="Project Name" />
