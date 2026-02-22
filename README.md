@@ -15,7 +15,7 @@ I am currently leveling up my developer profile with a strong emphasis on:
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EckeEcke&theme=dracula&hide_title=true&hide_border=true&show_icons=true" height="170" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EckeEcke&theme=dracula&hide_title=true&hide_border=true&layout=compact&langs_count=8&hide=html,css" height="170" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EckeEcke&theme=dracula&hide_title=true&hide_border=true&layout=compact&langs_count=8" height="170" />
     </td>
   </tr>
 </table>
