@@ -10,9 +10,9 @@ I am currently leveling up my developer profile with a strong emphasis on:
 
 ### 📊 GitHub Stats
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EckeEcke&theme=dracula&hide_title=true&show_icons=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EckeEcke&theme=dracula&hide_title=true&show_icons=true&hide_border=true" height="170" />
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EckeEcke&theme=dracula&hide_title=true&layout=compact&langs_count=8" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EckeEcke&theme=dracula&hide_title=true&layout=compact&hide_border=true" height="170" />
 
   ![](https://komarev.com/ghpvc/?username=EckeEcke&color=green) 
 ---
