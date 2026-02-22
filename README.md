@@ -9,7 +9,7 @@ I am currently leveling up my developer profile with a strong emphasis on:
 ---
 
 ### 📊 GitHub Stats
-<table align="center" border="0">
+<table border="0">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EckeEcke&theme=dracula&hide_title=true&hide_border=true&show_icons=true" height="170" />
