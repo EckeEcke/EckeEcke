@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![EckeEcke Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EckeEcke&theme=default)
+![EckeEcke Pie](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=EckeEcke&theme=default)
