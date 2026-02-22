@@ -39,6 +39,6 @@ I am currently leveling up my developer profile with a strong emphasis on:
 ### 📂 Featured Project
 <p align="left">
   <a href="https://github.com/EckeEcke/Triggerscore-nuxt3">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EckeEcke&repo=triggerscore&theme=dracula&hide_border=true" alt="Project Name" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EckeEcke&repo=triggerscore-nuxt3&theme=dracula&hide_border=true" alt="Project Name" />
   </a>
 </p>
