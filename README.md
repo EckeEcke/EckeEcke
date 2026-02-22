@@ -43,8 +43,7 @@ I am currently leveling up my developer profile with a strong emphasis on:
     Nuxt 4 Movie ratings platform based on triggering factors.
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Nuxt4-00DC82?style=flat-square&logo=nuxt&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nuxt 4-00DC82?style=flat-square&logo=nuxt&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
     <img src="https://img.shields.io/badge/Node JS-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
