@@ -32,7 +32,26 @@ I am currently leveling up my developer profile with a strong emphasis on:
 
 ---
 
-### 📂 Featured Project
+### 📂 Featured Projects
+#### PixReveal
+<div align="left">
+  <a href="https://github.com/EckeEcke/pixreveal">
+    <img src="https://raw.githubusercontent.com/EckeEcke/EckeEcke.github.io/master/images/screenshots/screenshot-pixreveal.webp" width="400" alt="Pixreveal Preview" />
+  </a>
+  <p>
+    Repo: <strong><a href="https://github.com/EckeEcke/pixreveal">pixreveal</a></strong><br />
+    Website: <strong><a href="https://pixreveal.com">pixreveal.com</a></strong><br />
+    Vue 3 Pixel Guessing Party Game with Online Multiplayer
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Vue 3-00DC82?style=flat-square&logo=vue.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Typescript-06B6D4?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-00C7B7?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Websocket-5FA04E?style=flat-square&logo=websocket&logoColor=white" />
+  </p>
+</div>
+
+#### Triggerscore
 <div align="left">
   <a href="https://github.com/EckeEcke/triggerscore-nuxt3">
     <img src="https://raw.githubusercontent.com/EckeEcke/EckeEcke.github.io/master/images/screenshots/Screenshot-Triggerscore.webp" width="400" alt="TriggerScore Preview" />
